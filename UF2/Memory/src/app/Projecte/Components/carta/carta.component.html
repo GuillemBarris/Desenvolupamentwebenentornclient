@@ -1,0 +1,6 @@
+<span *ngIf="carta.visible">
+    {{carta.num}}-<img src=".{{this.ruta}}assets/Imatges/{{carta.img}}" />
+</span>
+<span *ngIf="!carta.visible" (click)="agafar(carta)">
+    <img src=".{{this.ruta}}assets/Imatges/revers.png" />
+</span>
