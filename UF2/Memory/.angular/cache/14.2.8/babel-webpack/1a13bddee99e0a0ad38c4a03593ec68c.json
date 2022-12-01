@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"../../Interfaces/Carta/ICarta\";\nexport class Carta {\n  constructor(num, pal, img) {\n    this.num = num;\n    this.pal = pal;\n    this.img = img;\n    this.visible = false;\n  }\n\n  girar() {\n    this.visible = !this.visible;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const PAL = [{\n  \"pal\": \"PORRO\",\n  \"imatge\": \"porro.png\"\n}, {\n  \"pal\": \"FALÇ\",\n  \"imatge\": \"falç.png\"\n}, {\n  \"pal\": \"ROVELLO\",\n  \"imatge\": \"rovello.png\"\n}, {\n  \"pal\": \"DRAC\",\n  \"imatge\": \"foc.png\"\n}];","map":null,"metadata":{},"sourceType":"module"}

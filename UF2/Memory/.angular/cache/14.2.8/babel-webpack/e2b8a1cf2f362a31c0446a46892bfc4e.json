@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { BarallaBase } from \"./BarallaBase\";\nexport class Baralla extends BarallaBase {\n  constructor(index) {\n    super();\n    this.inicialitzar();\n    this.index = index;\n  }\n\n  inicialitzar() {}\n\n}","map":null,"metadata":{},"sourceType":"module"}

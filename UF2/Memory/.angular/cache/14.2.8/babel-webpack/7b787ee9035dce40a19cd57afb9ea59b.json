@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Utils {\n  static getRandom(max) {\n    return Math.round(Math.random() * max);\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
